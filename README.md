@@ -1,2 +1,2 @@
 # Dab-Android-App
-An android application created for unlimited streaming from dab.yeet.su
+Dab-Android-App is a sleek and modern Android application built using Flutter, designed for unlimited high-quality music streaming from dab.yeet.su. The app delivers a smooth and responsive user experience with features like artist profiles, curated playlists, and seamless audio playback. It integrates advanced streaming capabilities while maintaining a lightweight and intuitive interface, making it perfect for music lovers on the go.
